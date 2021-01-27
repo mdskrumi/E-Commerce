@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "Red Shirt",
+      "description": "This is a shirt for anybody",
+      "image": "https://image.spreadshirtmedia.com/image-server/v1/mp/productTypes/815/views/1/appearances/366,width=300,height=300,backgroundColor=f2f2f2.jpg",
+      "price": 20.04,
+      "offer_price": 13,
+      "id": 1
+    },
+    {
+      "title": "Blue Plain Shirt",
+      "description": "This is a shirt for anybody",
+      "image": "https://4.bp.blogspot.com/-UiYI8a9vK10/UiBiBuN7HOI/AAAAAAAAcCU/5oqam0nUIQQ/s1600/Diesel+1a.jpg",
+      "price": 120.04,
+      "offer_price": 115,
+      "id": 2
+    },
+    {
+      "title": "Baby Shirt",
+      "description": "This is a shirt for anybody",
+      "image": "https://image.spreadshirtmedia.com/image-server/v1/mp/productTypes/815/views/1/appearances/366,width=300,height=300,backgroundColor=f2f2f2.jpg",
+      "price": 220.04,
+      "offer_price": 125,
+      "id": 3
+    },
+    {
+      "title": "Black Shirt",
+      "description": "A very nice shirt to wear anywhere you want to.this shirt has very nice cotton and it is very comfortable to wear.A very nice shirt to wear anywhere you want to.this shirt has very nice cotton and it is very comfortable to wearA very nice shirt to wear anywhere you want to.this shirt has very nice cotton and it is very comfortable to wearA very nice shirt to wear anywhere you want to.this shirt has very nice cotton and it is very comfortable to wear",
+      "image": "https://image.spreadshirtmedia.com/image-server/v1/mp/productTypes/815/views/1/appearances/366,width=300,height=300,backgroundColor=f2f2f2.jpg",
+      "price": 200.04,
+      "offer_price": 180.23,
+      "id": 4
+    },
+    {
+      "title": "Shirt",
+      "description": "This is a shirt for anybody",
+      "image": "https://4.bp.blogspot.com/-UiYI8a9vK10/UiBiBuN7HOI/AAAAAAAAcCU/5oqam0nUIQQ/s1600/Diesel+1a.jpg",
+      "price": 20.04,
+      "offer_price": 15,
+      "id": 5
+    },
+    {
+      "title": "Shirt",
+      "description": "This is a shirt for anybody",
+      "image": "https://image.spreadshirtmedia.com/image-server/v1/mp/productTypes/815/views/1/appearances/366,width=300,height=300,backgroundColor=f2f2f2.jpg",
+      "price": 20.04,
+      "offer_price": 15,
+      "id": 6
+    }
+  ]
+}
